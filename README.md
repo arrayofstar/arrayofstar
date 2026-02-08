@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arrayofstar.
 - 👀 I’m interested in deeplearning.
 - 🌱 I’m currently learning deeplearning.
-- 📫 I’m trying to do something challenging now.
+- 📫 I’m trying to do something interesting now.
 
 
 <!---
